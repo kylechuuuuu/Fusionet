@@ -1,0 +1,37 @@
+{
+  "black": {
+    "id": 0,
+    "color": "#000000",
+    "name": "background"
+  },
+  "#blue": {
+    "id": 1,
+    "color": "#00a2e8",
+	"name": "noise"
+  },
+  "#red": {
+    "id": 2,
+    "color": "#860015",
+    "name": "carotid_artery"
+  },
+  "#brown": {
+    "id": 3,
+    "color": "#b97a57",
+    "name": "vertebral_artery"
+  },
+  "#yellow": {
+    "id": 4,
+    "color": "#fff200",
+    "name": "anterior_cerebral_artery"
+  },
+  "#purple": {
+    "id": 5,
+    "color": "#c8bfe7",
+    "name": "middle_cerebral_artery"
+  },
+  "#light_yellow": {
+    "id": 6,
+    "color": "#efe4b0",
+    "name": "posterior_cerebral_artery"
+  }
+}
